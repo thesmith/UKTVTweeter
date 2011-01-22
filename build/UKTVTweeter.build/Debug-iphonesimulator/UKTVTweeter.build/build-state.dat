@@ -1,0 +1,2403 @@
+TUKTVTweeter
+v7
+r0
+t316564550.264875
+cCheck dependencies
+cProcessInfoPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist UKTVTweeter-Info.plist
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png bbc_one.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png bbc_four.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png bbc_three.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png bbc_two.png
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+cProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/UKTVTweeter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasScheduleClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/BitlyClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Channel.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter normal i386
+cGenerateDSYMFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+cTouch /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Classes/NSObject+SBJSON.h
+c000000004C9CD0E6000000000000085F
+t1285345510
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Classes/NSString+SBJSON.h
+c000000004C9CD0E600000000000007F0
+t1285345510
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Classes/SBJsonBase.h
+c000000004C9CD0E60000000000000B82
+t1285345510
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Classes/SBJsonParser.h
+c000000004C9CD0E60000000000000C8F
+t1285345510
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Classes/SBJsonWriter.h
+c000000004C9CD0E600000000000011D9
+t1285345510
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/AbstractTest.h
+c000000004C9CD0E600000000000006A2
+t1285345510
+s1698
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/DataDrivenTest.h
+c000000004C9CD0E60000000000000691
+t1285345510
+s1681
+i"AbstractTest.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/ErrorTest.h
+c000000004C9CD0E6000000000000062E
+t1285345510
+s1582
+i"AbstractTest.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/MaxDepthTest.h
+c000000004C9CD0E60000000000000631
+t1285345510
+s1585
+i"AbstractTest.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/ProxyTest.h
+c000000004C9CD0E6000000000000062E
+t1285345510
+s1582
+i"AbstractTest.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/Tests/WriterTest.h
+c000000004C9CD0E60000000000000628
+t1285345510
+s1576
+i"AbstractTest.h"
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/build/Debug-iphonesimulator/JSON/JSON
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bens/Downloads/stig-json-framework-1ae01ae/build/Debug-iphonesimulator/libjson.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/.gitignore
+c000000004C9CD0E6000000000000001A
+t1285345510
+s26
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Changes.markdown
+c000000004C9CD0E60000000000001C2E
+t1285345510
+s7214
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/NSObject+SBJSON.m
+c000000004C9CD0E6000000000000077D
+t1285345510
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/NSString+SBJSON.m
+c000000004C9CD0E6000000000000075D
+t1285345510
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonBase.m
+c000000004C9CD0E60000000000000AC1
+t1285345510
+s2753
+i"SBJsonBase.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonParser.m
+c000000004C9CD0E60000000000003B7A
+t1285345510
+s15226
+i"SBJsonParser.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonWriter.m
+c000000004C9CD0E6000000000000206D
+t1285345510
+s8301
+i"SBJsonWriter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Credits.markdown
+c000000004C9CD0E60000000000000690
+t1285345510
+s1680
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Installation.markdown
+c000000004C9CD0E6000000000000058B
+t1285345510
+s1419
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/JSON-Info.plist
+c000000004C9CD0E600000000000002A3
+t1285345510
+s675
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/LICENSE
+c000000004C9CD0E600000000000005CC
+t1285345510
+s1484
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Notes/JensAlfkePerformanceNotes.txt
+c000000004C9CD0E60000000000000FEE
+t1285345510
+s4078
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Notes/parser-benchmark.txt
+c000000004C9CD0E600000000000006F8
+t1285345510
+s1784
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Readme.markdown
+c000000004C9CD0E60000000000000324
+t1285345510
+s804
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Scripts/InstallDocumentation.sh
+c000000004C9CD0E6000000000000075C
+t1285345510
+s1884
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Scripts/RefreshOnlineDocs.sh
+c000000004C9CD0E6000000000000030B
+t1285345510
+s779
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests-Info.plist
+c000000004C9CD0E6000000000000026E
+t1285345510
+s622
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/AbstractTest.m
+c000000004C9CD0E600000000000006D6
+t1285345510
+s1750
+i"AbstractTest.h"
+i<JSON/JSON.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json
+c000000004C9CD0E6000000000000003A
+t1285345510
+s58
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json.pretty
+c000000004C9CD0E60000000000000094
+t1285345510
+s148
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json.terse
+c000000004C9CD0E60000000000000036
+t1285345510
+s54
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json
+c000000004C9CD0E6000000000000000C
+t1285345510
+s12
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json.pretty
+c000000004C9CD0E60000000000000014
+t1285345510
+s20
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json.terse
+c000000004C9CD0E6000000000000000D
+t1285345510
+s13
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json
+c000000004C9CD0E60000000000000037
+t1285345510
+s55
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json.pretty
+c000000004C9CD0E60000000000000074
+t1285345510
+s116
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json.terse
+c000000004C9CD0E60000000000000035
+t1285345510
+s53
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json
+c000000004C9CD0E600000000000002C2
+t1285345510
+s706
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json.pretty
+c000000004C9CD0E60000000000000261
+t1285345510
+s609
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json.terse
+c000000004C9CD0E60000000000000169
+t1285345510
+s361
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json
+c000000004C9CD0E600000000000000F2
+t1285345510
+s242
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json.pretty
+c000000004C9CD0E6000000000000016F
+t1285345510
+s367
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json.terse
+c000000004C9CD0E600000000000000B8
+t1285345510
+s184
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json
+c000000004C9CD0E6000000000000025E
+t1285345510
+s606
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json.pretty
+c000000004C9CD0E60000000000000253
+t1285345510
+s595
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json.terse
+c000000004C9CD0E60000000000000186
+t1285345510
+s390
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json
+c000000004C9CD0E60000000000000D8B
+t1285345510
+s3467
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json.pretty
+c000000004C9CD0E60000000000000ED8
+t1285345510
+s3800
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json.terse
+c000000004C9CD0E60000000000000A97
+t1285345510
+s2711
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json
+c000000004C9CD0E60000000000000369
+t1285345510
+s873
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json.pretty
+c000000004C9CD0E600000000000004E4
+t1285345510
+s1252
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json.terse
+c000000004C9CD0E60000000000000266
+t1285345510
+s614
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/README
+c000000004C9CD0E60000000000000024
+t1285345510
+s36
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/README
+c000000004C9CD0E60000000000000025
+t1285345510
+s37
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail1.json
+c000000004C9CD0E6000000000000003C
+t1285345510
+s60
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail10.json
+c000000004C9CD0E6000000000000003A
+t1285345510
+s58
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail11.json
+c000000004C9CD0E6000000000000001D
+t1285345510
+s29
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail12.json
+c000000004C9CD0E6000000000000001F
+t1285345510
+s31
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail13.json
+c000000004C9CD0E6000000000000002B
+t1285345510
+s43
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail14.json
+c000000004C9CD0E6000000000000001F
+t1285345510
+s31
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail15.json
+c000000004C9CD0E60000000000000022
+t1285345510
+s34
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail16.json
+c000000004C9CD0E60000000000000008
+t1285345510
+s8
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail17.json
+c000000004C9CD0E60000000000000022
+t1285345510
+s34
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail18.json
+c000000004C9CD0E60000000000000032
+t1285345510
+s50
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail19.json
+c000000004C9CD0E60000000000000016
+t1285345510
+s22
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail2.json
+c000000004C9CD0E60000000000000011
+t1285345510
+s17
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail20.json
+c000000004C9CD0E60000000000000017
+t1285345510
+s23
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail21.json
+c000000004C9CD0E60000000000000020
+t1285345510
+s32
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail22.json
+c000000004C9CD0E60000000000000021
+t1285345510
+s33
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail23.json
+c000000004C9CD0E60000000000000014
+t1285345510
+s20
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail24.json
+c000000004C9CD0E60000000000000010
+t1285345510
+s16
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail25.json
+c000000004C9CD0E6000000000000001D
+t1285345510
+s29
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail26.json
+c000000004C9CD0E60000000000000026
+t1285345510
+s38
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail27.json
+c000000004C9CD0E6000000000000000E
+t1285345510
+s14
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail28.json
+c000000004C9CD0E6000000000000000F
+t1285345510
+s15
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail29.json
+c000000004C9CD0E60000000000000004
+t1285345510
+s4
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail3.json
+c000000004C9CD0E60000000000000025
+t1285345510
+s37
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail30.json
+c000000004C9CD0E60000000000000005
+t1285345510
+s5
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail31.json
+c000000004C9CD0E60000000000000007
+t1285345510
+s7
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail32.json
+c000000004C9CD0E60000000000000028
+t1285345510
+s40
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail33.json
+c000000004C9CD0E6000000000000000C
+t1285345510
+s12
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail4.json
+c000000004C9CD0E60000000000000010
+t1285345510
+s16
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail5.json
+c000000004C9CD0E60000000000000018
+t1285345510
+s24
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail6.json
+c000000004C9CD0E6000000000000001A
+t1285345510
+s26
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail7.json
+c000000004C9CD0E6000000000000001A
+t1285345510
+s26
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail8.json
+c000000004C9CD0E60000000000000010
+t1285345510
+s16
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail9.json
+c000000004C9CD0E60000000000000016
+t1285345510
+s22
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json
+c000000004C9CD0E600000000000005A1
+t1285345510
+s1441
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json.pretty
+c000000004C9CD0E600000000000005B9
+t1285345510
+s1465
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json.terse
+c000000004C9CD0E60000000000000417
+t1285345510
+s1047
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json
+c000000004C9CD0E60000000000000034
+t1285345510
+s52
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json.pretty
+c000000004C9CD0E6000000000000032D
+t1285345510
+s813
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json.terse
+c000000004C9CD0E60000000000000035
+t1285345510
+s53
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json
+c000000004C9CD0E60000000000000094
+t1285345510
+s148
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json.pretty
+c000000004C9CD0E6000000000000008B
+t1285345510
+s139
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json.terse
+c000000004C9CD0E60000000000000074
+t1285345510
+s116
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json
+c000000004C9CD0E6000000000000000B
+t1285345510
+s11
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json.pretty
+c000000004C9CD0E60000000000000013
+t1285345510
+s19
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json.terse
+c000000004C9CD0E6000000000000000C
+t1285345510
+s12
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json
+c000000004C9CD0E60000000000000080
+t1285345510
+s128
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json.pretty
+c000000004C9CD0E6000000000000009A
+t1285345510
+s154
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json.terse
+c000000004C9CD0E60000000000000069
+t1285345510
+s105
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json
+c000000004C9CD0E6000000000000004A
+t1285345510
+s74
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json.pretty
+c000000004C9CD0E6000000000000009F
+t1285345510
+s159
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json.terse
+c000000004C9CD0E60000000000000046
+t1285345510
+s70
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/README
+c000000004C9CD0E60000000000000037
+t1285345510
+s55
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json
+c000000004C9CD0E6000000000000014D
+t1285345510
+s333
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json.pretty
+c000000004C9CD0E60000000000000123
+t1285345510
+s291
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json.terse
+c000000004C9CD0E600000000000000B6
+t1285345510
+s182
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json
+c000000004C9CD0E60000000000000213
+t1285345510
+s531
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json.pretty
+c000000004C9CD0E60000000000000194
+t1285345510
+s404
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json.terse
+c000000004C9CD0E60000000000000117
+t1285345510
+s279
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json
+c000000004C9CD0E60000000000000165
+t1285345510
+s357
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json.pretty
+c000000004C9CD0E6000000000000019E
+t1285345510
+s414
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json.terse
+c000000004C9CD0E6000000000000012B
+t1285345510
+s299
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json
+c000000004C9CD0E600000000000000DB
+t1285345510
+s219
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json.pretty
+c000000004C9CD0E600000000000000CC
+t1285345510
+s204
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json.terse
+c000000004C9CD0E600000000000000B7
+t1285345510
+s183
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json
+c000000004C9CD0E600000000000000DA
+t1285345510
+s218
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json.pretty
+c000000004C9CD0E600000000000000F8
+t1285345510
+s248
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json.terse
+c000000004C9CD0E600000000000000C7
+t1285345510
+s199
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/DataDrivenTest.m
+c000000004C9CD0E60000000000001795
+t1285345510
+s6037
+i"DataDrivenTest.h"
+i<JSON/JSON.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/ErrorTest.m
+c000000004C9CD0E600000000000029FC
+t1285345510
+s10748
+i"ErrorTest.h"
+i<JSON/JSON.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/MaxDepthTest.m
+c000000004C9CD0E60000000000000AFA
+t1285345510
+s2810
+i"MaxDepthTest.h"
+i"JSON/JSON.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/ProxyTest.m
+c000000004C9CD0E60000000000000BD4
+t1285345510
+s3028
+i"ProxyTest.h"
+i<JSON/JSON.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/WriterTest.m
+c000000004C9CD0E60000000000000B94
+t1285345510
+s2964
+i"WriterTest.h"
+i<JSON/JSON.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/libjsontests-Info.plist
+c000000004C9CD0E6000000000000026C
+t1285345510
+s620
+
+N/Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle
+c000000004D20CDFE00000000000001DC
+t1293995518
+s476
+
+N/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+c000000004D2CF26C0000000000003E19
+t1294791276
+s15897
+
+N/Users/bens/projects/iphone/UKTVTweeter/ChannelsViewController.xib
+c000000004D1E14CB0000000000001643
+t1293817035
+s5699
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.h
+c000000004D20C812000000000000010D
+t1293994002
+s269
+i<Foundation/Foundation.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.m
+c000000004D20C8420000000000000144
+t1293994050
+s324
+i"AltasClient.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h
+c000000004D20F5A900000000000000A4
+t1294005673
+s164
+i<Foundation/Foundation.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m
+c000000004D20F5DB00000000000001CA
+t1294005723
+s458
+i"AtlasClient.h"
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.h
+c000000004D2A496800000000000001D1
+t1294616936
+s465
+i<Foundation/Foundation.h>
+i"Programme.h"
+i"AtlasScheduleDelegate.h"
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m
+c000000004D2A494C00000000000008FF
+t1294616908
+s2303
+i"AtlasScheduleClient.h"
+i"Programme.h"
+i"JSON/JSON.h"
+i"AtlasScheduleDelegate.h"
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleDelegate.h
+c000000004D23B2130000000000000154
+t1294184979
+s340
+i<UIKit/UIKit.h>
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.h
+c000000004D2A46FD00000000000001A1
+t1294616317
+s417
+i<Foundation/Foundation.h>
+i"BitlyDelegate.h"
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m
+c000000004D28F17400000000000008AC
+t1294528884
+s2220
+i"BitlyClient.h"
+i"BitlyDelegate.h"
+i"Programme.h"
+i"JSON/JSON.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyDelegate.h
+c000000004D28E3DA00000000000000B5
+t1294525402
+s181
+i<UIKit/UIKit.h>
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.h
+c000000004D2CE4160000000000000188
+t1294787606
+s392
+i<Foundation/Foundation.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m
+c000000004D2CE73F000000000000074F
+t1294788415
+s1871
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.h
+c000000004D2CEE0B0000000000000091
+t1294790155
+s145
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m
+c000000004D2E2CC40000000000000A02
+t1294871748
+s2562
+i"ChannelChooser.h"
+i"Tweeter.h"
+i"Channel.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/CurrentProgrammeResolver.m
+c000000004D20F5DB00000000000001CA
+t1294005723
+s458
+i"AtlasClient.h"
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.h
+c000000004D2A48D60000000000000214
+t1294616790
+s532
+i<Foundation/Foundation.h>
+i"JSON/JSON.h"
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m
+c000000004D2A48C80000000000000409
+t1294616776
+s1033
+i"Programme.h"
+i"JSON/JSON.h"
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.h
+c000000004D2A467C0000000000000255
+t1294616188
+s597
+i<UIKit/UIKit.h>
+i"Programme.h"
+i"AtlasScheduleDelegate.h"
+i"AtlasScheduleClient.h"
+i"BitlyDelegate.h"
+i"BitlyClient.h"
+i"Channel.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m
+c000000004D2A4D9F00000000000007EE
+t1294618015
+s2030
+i"Tweeter.h"
+i"Programme.h"
+i"AtlasScheduleDelegate.h"
+i"AtlasScheduleClient.h"
+i"Channel.h"
+i"JSON/JSON.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.h
+c000000004D2113B60000000000000140
+t1294013366
+s320
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m
+c000000004D2113BA00000000000009F1
+t1294013370
+s2545
+i"UKTVTweeterAppDelegate.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.h
+c000000004D1FCF900000000000000172
+t1293930384
+s370
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m
+c000000004D1FCF560000000000000A0A
+t1293930326
+s2570
+i"UKTVTweeterViewController.h"
+i"ChannelChooser.h"
+i"Tweeter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+c000000004D20C23A00000000000064E0
+t1293992506
+s25824
+
+N/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+c000000004D2A4D6400000000000051D0
+t1294617956
+s20944
+
+N/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+c000000004D1F993C0000000000003BC8
+t1293916476
+s15304
+
+N/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch
+c000000004D1DF42C00000000000000BF
+t1293808684
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_four.png
+c000000004D21C527000000000000164E
+t1294058791
+s5710
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_one.png
+c000000004D21C4E10000000000001EBE
+t1294058721
+s7870
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_three.png
+c000000004D21C50E00000000000022E4
+t1294058766
+s8932
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_two.png
+c000000004D21C4FE00000000000021C7
+t1294058750
+s8647
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+t1294871750
+s442
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM
+t1294871750
+s102
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/.gitignore
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/1.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/1.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/1.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/2.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/2.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/2.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/3.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/3.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/3.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/4.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/4.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/4.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/5.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/5.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/5.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Changes.markdown
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelChooser.nib
+t1294791280
+s1231
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelsViewController.nib
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Credits.markdown
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist
+t1294003602
+s607
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/InstallDocumentation.sh
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Installation.markdown
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/JSON-Info.plist
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/JensAlfkePerformanceNotes.txt
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/LICENSE
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/MainWindow.nib
+t1294003603
+s3106
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/PkgInfo
+t1294003602
+s8
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/README
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Readme.markdown
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/RefreshOnlineDocs.sh
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tests-Info.plist
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle
+t1294003603
+s476
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tweeter.nib
+t1294617957
+s2194
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+t1294871750
+s110280
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeterViewController.nib
+t1293918080
+s1234
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/a.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/a.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/a.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/array.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/array.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/array.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/b.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/b.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/b.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png
+t1294059563
+s5710
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png
+t1294059563
+s7870
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png
+t1294059563
+s8932
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png
+t1294059563
+s8647
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bool.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bool.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bool.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail1.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail10.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail11.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail12.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail13.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail14.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail15.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail16.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail17.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail18.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail19.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail2.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail20.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail21.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail22.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail23.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail24.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail25.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail26.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail27.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail28.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail29.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail3.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail30.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail31.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail32.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail33.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail4.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail5.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail6.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail7.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail8.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/fail9.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/format.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/format.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/format.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/libjsontests-Info.plist
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/null.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/null.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/null.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/number.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/number.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/number.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/object.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/object.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/object.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/parser-benchmark.txt
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string.json
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string.json.pretty
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/string.json.terse
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AbstractTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AltasClient.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o
+t1294003946
+s6076
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasScheduleClient.o
+t1294871735
+s19772
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/BitlyClient.o
+t1294871735
+s19264
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Channel.o
+t1294788417
+s17928
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o
+t1294871750
+s46884
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/CurrentProgrammeResolver.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/DataDrivenTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ErrorTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/MaxDepthTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o
+t1294871735
+s15604
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ProxyTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o
+t1294871735
+s48104
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeter.LinkFileList
+c000000004D2A485F0000000000000455
+t1294616671
+s1109
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o
+t1294013396
+s49680
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o
+t1293991830
+s43188
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/WriterTest.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o
+t1294009692
+s6304
+
+N/Users/bens/projects/iphone/UKTVTweeter/main.m
+c000000004D1DF42C000000000000016D
+t1293808684
+s365
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/stig-json-framework-1ae01ae/build/Debug-iphonesimulator/JSON/JSON
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bens/projects/iphone/stig-json-framework-1ae01ae/build/Debug-iphonesimulator/libjson.a
+c000000004D21055A00000000000143B0
+t1294009690
+s82864
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.2.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.5.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core-Xcode3.2.2.a
+c000000004D20D6580000000000033148
+t1293997656
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core-Xcode3.2.5.a
+c000000004D20D6540000000000033148
+t1293997652
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004D20D64C0000000000033148
+t1293997644
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network-Xcode3.2.2.a
+c000000004D20D67C0000000000051850
+t1293997692
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network-Xcode3.2.5.a
+c000000004D20D6710000000000051850
+t1293997681
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004D20D65E0000000000051850
+t1293997662
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style-Xcode3.2.2.a
+c000000004D20D6840000000000124450
+t1293997700
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style-Xcode3.2.5.a
+c000000004D20D67A0000000000124450
+t1293997690
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004D20D6690000000000124450
+t1293997673
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI-Xcode3.2.2.a
+c000000004D20D6AE000000000053D248
+t1293997742
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI-Xcode3.2.5.a
+c000000004D20D6A2000000000053D248
+t1293997730
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004D20D694000000000053D248
+t1293997716
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon-Xcode3.2.2.a
+c000000004D20D6590000000000034780
+t1293997657
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon-Xcode3.2.5.a
+c000000004D20D6550000000000034780
+t1293997653
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004D20D64E0000000000034780
+t1293997646
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator-Xcode3.2.2.a
+c000000004D20D65B000000000007E350
+t1293997659
+s516944
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator-Xcode3.2.5.a
+c000000004D20D656000000000007E350
+t1293997654
+s516944
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004D20D652000000000007E350
+t1293997650
+s516944
+
+N/tmp/JSON.dst/usr/local/include/JSON/JSON.h
+c000000004D2E2CB70000000000000AC5
+t1294871735
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/tmp/JSON.dst/usr/local/include/JSON/NSObject+SBJSON.h
+c000000004D29C2D8000000000000085F
+t1294582488
+s2143
+i<Foundation/Foundation.h>
+
+N/tmp/JSON.dst/usr/local/include/JSON/NSString+SBJSON.h
+c000000004D29C2D800000000000007F0
+t1294582488
+s2032
+i<Foundation/Foundation.h>
+
+N/tmp/JSON.dst/usr/local/include/JSON/SBJsonBase.h
+c000000004D29C2D80000000000000B82
+t1294582488
+s2946
+i<Foundation/Foundation.h>
+
+N/tmp/JSON.dst/usr/local/include/JSON/SBJsonParser.h
+c000000004D29C2D80000000000000C8F
+t1294582488
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/tmp/JSON.dst/usr/local/include/JSON/SBJsonWriter.h
+c000000004D29C2D800000000000011D9
+t1294582488
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch
+t1293918082
+s15211536
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch.gch
+t1294009691
+s15211536
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch
+t1294003605
+s15211536
+
+NUKTVTweeter-Info.plist
+c000000004D1DF42C000000000000038D
+t1293808684
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316564550#316564550#0(0"0(0#1#0"8619389344#0"0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AbstractTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/AbstractTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AltasClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696746.209792
+e315696746.282663
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315696746#315696746#0(0"0(0#0#61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m8645753312#2125"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasScheduleClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316564535.351754
+e316564535.448069
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasScheduleClient.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m316564535#316564535#0(0"0(0#0#69"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m8620090432#2175"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasScheduleClient.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasScheduleClient.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/BitlyClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316564535.423952
+e316564535.504694
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/BitlyClient.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m316564535#316564535#0(0"0(0#0#61"/Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m8619849344#2159"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/BitlyClient.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/BitlyClient.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Channel.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316481217.701175
+e316481217.852877
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Channel.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m316481217#316481217#0(0"0(0#0#57"/Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m8621883648#2151"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/Channel.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Channel.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316564550.051064
+e316564550.198284
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m316564550#316564550#0(0"0(0#0#64"/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m8613860768#2165"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/CurrentProgrammeResolver.o /Users/bens/projects/iphone/UKTVTweeter/Classes/CurrentProgrammeResolver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/DataDrivenTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/DataDrivenTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ErrorTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/ErrorTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/MaxDepthTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/MaxDepthTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/NSObject+SBJSON.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/NSString+SBJSON.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316564535.347253
+e316564535.423835
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m316564535#316564535#0(0"0(0#0#59"/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m8622257888#2155"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ProxyTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/ProxyTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonBase.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonParser.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/SBJsonWriter.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316564535.238047
+e316564535.347148
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m316564535#316564535#0(0"0(0#0#57"/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m8623289824#2151"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315706196.261266
+e315706196.449071
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m315706196#315706196#0(0"0(0#0#72"/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m8622754432#2181"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315684630.220438
+e315684630.326120
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m315684630#315684630#0(0"0(0#0#75"/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m8620268896#2117"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/WriterTest.o /Users/bens/projects/iphone/UKTVTweeter/../../../Downloads/stig-json-framework-1ae01ae/Tests/WriterTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/UKTVTweeter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315702491.996475
+e315702492.059372
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o
+x/Users/bens/projects/iphone/UKTVTweeter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bens/projects/iphone/UKTVTweeter/main.m315702491#315702492#0(0"0(0#0#46"/Users/bens/projects/iphone/UKTVTweeter/main.m8662784160#2137"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/main.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+s316484080.627175
+e316484080.989280
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+lSLF07#2@29"CompileXIB ChannelChooser.xib316484080#316484081#0(0"0(0#0#58"/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib8622067232#647"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelChooser.nib /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelsViewController.xib
+r0
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+s315696402.875949
+e315696403.586307
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib:16: warning: 'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.
+lSLF07#2@25"CompileXIB MainWindow.xib315696402#315696403#0(268"/* com.apple.ibtool.document.warnings *//Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib:16: warning: 'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.1(22@158"'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.315696403#18446744073709551615#0#0(6@54"/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib315685306#16#0#16#0#0"0(0#0#54"/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib8654463552#639"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/MainWindow.nib /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+s316310757.153012
+e316310757.558796
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+lSLF07#2@22"CompileXIB Tweeter.xib316310757#316310757#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib8617906560#633"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tweeter.nib /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+s315610879.880792
+e315610880.295415
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+lSLF07#2@40"CompileXIB UKTVTweeterViewController.xib315610879#315610880#0(0"0(0#0#69"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib8616775072#669"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeterViewController.nib /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/JSON-Info.plist ../../../Downloads/stig-json-framework-1ae01ae/JSON-Info.plist
+r0
+
+CCopyPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tests-Info.plist ../../../Downloads/stig-json-framework-1ae01ae/Tests-Info.plist
+r0
+
+CCopyPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/libjsontests-Info.plist ../../../Downloads/stig-json-framework-1ae01ae/libjsontests-Info.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/.gitignore ../../../Downloads/stig-json-framework-1ae01ae/.gitignore
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/1.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/1.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/1.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/1.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/2.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/2.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/2.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/2.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/3.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/3.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/3.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/3.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/4.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/4.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/4.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/4.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/5.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/5.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/5.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/5.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Changes.markdown ../../../Downloads/stig-json-framework-1ae01ae/Changes.markdown
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+s315690544.724367
+e315690544.737610
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest
+x/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+opbxcp: CoreUnitTests.octest: No such file or directory
+lSLF07#2@98"Copy /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest315690544#315690544#0(55"pbxcp: CoreUnitTests.octest: No such file or directory1(4@54"pbxcp: CoreUnitTests.octest: No such file or directory315690544#18446744073709551615#0#0(6@0"315690544#0#0#0#0#0"0(0#0#93"/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest8666350624#566"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app1#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Credits.markdown ../../../Downloads/stig-json-framework-1ae01ae/Credits.markdown
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/InstallDocumentation.sh ../../../Downloads/stig-json-framework-1ae01ae/Scripts/InstallDocumentation.sh
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Installation.markdown ../../../Downloads/stig-json-framework-1ae01ae/Installation.markdown
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/JensAlfkePerformanceNotes.txt ../../../Downloads/stig-json-framework-1ae01ae/Notes/JensAlfkePerformanceNotes.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/LICENSE ../../../Downloads/stig-json-framework-1ae01ae/LICENSE
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/README ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/json.org/README
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/README ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/README
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/README ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/README
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Readme.markdown ../../../Downloads/stig-json-framework-1ae01ae/Readme.markdown
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/RefreshOnlineDocs.sh ../../../Downloads/stig-json-framework-1ae01ae/Scripts/RefreshOnlineDocs.sh
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle ../three20/src/Three20.bundle
+s315696403.758452
+e315696403.784639
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle
+x../three20/src/Three20.bundle
+lSLF07#2@34"Copy ../three20/src/Three20.bundle315696403#315696403#0(0"0(0#0#69"/Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle8650030400#542"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/a.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/a.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/a.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/a.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/array.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/array.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/array.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/array.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/b.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/b.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/b.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/rfc4627/b.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png bbc_four.png
+s315752363.691103
+e315752363.722320
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png
+xbbc_four.png
+lSLF07#2@17"Copy bbc_four.png315752363#315752363#0(0"0(0#0#52"/Users/bens/projects/iphone/UKTVTweeter/bbc_four.png8642859712#525"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_four.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png bbc_one.png
+s315752363.690250
+e315752363.722206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png
+xbbc_one.png
+lSLF07#2@16"Copy bbc_one.png315752363#315752363#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/bbc_one.png8628269856#524"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_one.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png bbc_three.png
+s315752363.692971
+e315752363.722423
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png
+xbbc_three.png
+lSLF07#2@18"Copy bbc_three.png315752363#315752363#0(0"0(0#0#53"/Users/bens/projects/iphone/UKTVTweeter/bbc_three.png8635880960#526"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_three.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png bbc_two.png
+s315752363.700876
+e315752363.723784
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png
+xbbc_two.png
+lSLF07#2@16"Copy bbc_two.png315752363#315752363#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/bbc_two.png8620564896#524"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_two.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bool.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bool.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bool.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/bool.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail1.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail1.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail10.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail10.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail11.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail11.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail12.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail12.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail13.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail13.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail14.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail14.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail15.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail15.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail16.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail16.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail17.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail17.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail18.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail18.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail19.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail19.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail2.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail2.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail20.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail20.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail21.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail21.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail22.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail22.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail23.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail23.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail24.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail24.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail25.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail25.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail26.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail26.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail27.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail27.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail28.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail28.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail29.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail29.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail3.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail3.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail30.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail30.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail31.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail31.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail32.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail32.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail33.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail33.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail4.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail4.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail5.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail5.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail6.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail6.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail7.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail7.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail8.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail8.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/fail9.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/fail9.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/format.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/format.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/format.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/format.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/null.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/null.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/null.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/null.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/number.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/number.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/number.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/number.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/object.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/object.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/object.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/object.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/parser-benchmark.txt ../../../Downloads/stig-json-framework-1ae01ae/Notes/parser-benchmark.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass1.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass1.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass2.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass2.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/pass3.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/jsonchecker/pass3.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-ctrl.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-ctrl.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string-unicode.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string-unicode.json.terse
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string.json ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string.json.pretty ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json.pretty
+r0
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/string.json.terse ../../../Downloads/stig-json-framework-1ae01ae/Tests/Data/string.json.terse
+r0
+
+CGenerateDSYMFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+s316564550.234458
+e316564550.262104
+r1
+xGenerateDSYMFile
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/UKTVTweeter.app.dSYM build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter316564550#316564550#0(0"0(0#0#95"/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter8612581408#460"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM0#
+
+CLd /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter normal i386
+s316564550.198388
+e316564550.234343
+r1
+xLd
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+xnormal
+xi386
+lSLF07#2@100"Link /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter316564550#316564550#0(0"0(0#0#0"8616994688#1119"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -filelist /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeter.LinkFileList -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/bens/projects/iphone/stig-json-framework-1ae01ae/build/Debug-iphonesimulator/libjson.a -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter0#
+
+CProcessInfoPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist UKTVTweeter-Info.plist
+s315696402.869118
+e315696402.875866
+r1
+xProcessInfoPlistFile
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist
+xUKTVTweeter-Info.plist
+lSLF07#2@30"Process UKTVTweeter-Info.plist315696402#315696402#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter-Info.plist8656128800#556"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility UKTVTweeter-Info.plist -genpkginfo /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315610880.823083
+e315610882.780682
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch
+xUKTVTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UKTVTweeter_Prefix.pch315610880#315610882#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch8606186752#1954"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -c /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315702491.055558
+e315702491.996372
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch.gch
+xUKTVTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UKTVTweeter_Prefix.pch315702491#315702491#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch8629960000#2024"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/tmp/JSON.dst/usr/local/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -c /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-gyvttosriyhntdamdlkhxskymbpa/UKTVTweeter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696404.141007
+e315696405.162905
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch
+xUKTVTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UKTVTweeter_Prefix.pch315696404#315696405#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch8649367232#1990"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -c /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch0#
+
+CTouch /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+s316564550.262195
+e316564550.264834
+r1
+xTouch
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+lSLF07#2@89"Touch /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app316564550#316564550#0(0"0(0#0#0"8605380096#346"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+

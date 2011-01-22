@@ -1,0 +1,551 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* UKTVTweeterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 429}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 320}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UKTVTweeterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1131}";
+			sepNavWindowFrame = "{{38, 444}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UKTVTweeter */ = {
+		activeExec = 0;
+		executables = (
+			BC91BDF712CE2BAC00B36C0C /* UKTVTweeter */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BC91BDF712CE2BAC00B36C0C /* UKTVTweeter */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UKTVTweeter */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UKTVTweeter */,
+		);
+		breakpoints = (
+			BC91C4D612D3EEF800B36C0C /* AtlasScheduleClient.m:64 */,
+			BC91C54A12D9271C00B36C0C /* Tweeter.m:29 */,
+			BC91C55E12D928A200B36C0C /* BitlyClient.m:56 */,
+		);
+		codeSenseManager = BC91BE0112CE2BBA00B36C0C /* Code sense */;
+		executables = (
+			BC91BDF712CE2BAC00B36C0C /* UKTVTweeter */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					803,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316275220;
+			PBXWorkspaceStateSaveDate = 316275220;
+		};
+		perUserProjectItems = {
+			BC91BE3F12CFACE700B36C0C /* PBXTextBookmark */ = BC91BE3F12CFACE700B36C0C /* PBXTextBookmark */;
+			BC91BE4012CFACE700B36C0C /* PBXBookmark */ = BC91BE4012CFACE700B36C0C /* PBXBookmark */;
+			BC91BF5F12D0FA0C00B36C0C /* PlistBookmark */ = BC91BF5F12D0FA0C00B36C0C /* PlistBookmark */;
+			BC91C38912D2273300B36C0C /* PBXBookmark */ = BC91C38912D2273300B36C0C /* PBXBookmark */;
+			BC91C52312D91F3600B36C0C /* PBXTextBookmark */ = BC91C52312D91F3600B36C0C /* PBXTextBookmark */;
+			BC91C54712D9270200B36C0C /* PBXTextBookmark */ = BC91C54712D9270200B36C0C /* PBXTextBookmark */;
+			BC98CF3412DA83D4006904AD /* PBXTextBookmark */ = BC98CF3412DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3512DA83D4006904AD /* PBXTextBookmark */ = BC98CF3512DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3812DA83D4006904AD /* PBXTextBookmark */ = BC98CF3812DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3912DA83D4006904AD /* PBXTextBookmark */ = BC98CF3912DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3A12DA83D4006904AD /* PBXTextBookmark */ = BC98CF3A12DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3B12DA83D4006904AD /* PBXTextBookmark */ = BC98CF3B12DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF3F12DA83D4006904AD /* PBXTextBookmark */ = BC98CF3F12DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF4012DA83D4006904AD /* PBXTextBookmark */ = BC98CF4012DA83D4006904AD /* PBXTextBookmark */;
+			BC98CF4312DA8416006904AD /* PBXTextBookmark */ = BC98CF4312DA8416006904AD /* PBXTextBookmark */;
+			BC98CF5412DD1BAC006904AD /* PBXTextBookmark */ = BC98CF5412DD1BAC006904AD /* PBXTextBookmark */;
+			BC98CF6B12DD1F46006904AD /* PBXTextBookmark */ = BC98CF6B12DD1F46006904AD /* PBXTextBookmark */;
+			BC98CF8912DD22EC006904AD /* PBXTextBookmark */ = BC98CF8912DD22EC006904AD /* PBXTextBookmark */;
+			BC98CFA212DD25A1006904AD /* PBXTextBookmark */ = BC98CFA212DD25A1006904AD /* PBXTextBookmark */;
+			BC98CFA312DD25A1006904AD /* PBXTextBookmark */ = BC98CFA312DD25A1006904AD /* PBXTextBookmark */;
+			BC98CFF112DF0523006904AD /* PBXTextBookmark */ = BC98CFF112DF0523006904AD /* PBXTextBookmark */;
+		};
+		sourceControlManager = BC91BE0012CE2BBA00B36C0C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* UKTVTweeter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 654}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	BC91BDF712CE2BAC00B36C0C /* UKTVTweeter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UKTVTweeter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BC91BE0012CE2BBA00B36C0C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BC91BE0112CE2BBA00B36C0C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BC91BE0612CE2D9F00B36C0C /* bbc_one.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{107, 381}, {750, 558}}";
+		};
+	};
+	BC91BE2112CE4CA400B36C0C /* ChannelChooser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 679}}";
+			sepNavSelRange = "{138, 0}";
+			sepNavVisRange = "{0, 145}";
+		};
+	};
+	BC91BE2212CE4CA400B36C0C /* ChannelChooser.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 858}}";
+			sepNavSelRange = "{2036, 0}";
+			sepNavVisRange = "{1277, 658}";
+			sepNavWindowFrame = "{{84, 402}, {750, 558}}";
+		};
+	};
+	BC91BE2412CE4CB500B36C0C /* Tweeter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 429}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 597}";
+		};
+	};
+	BC91BE2512CE4CB500B36C0C /* Tweeter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 923}}";
+			sepNavSelRange = "{310, 24}";
+			sepNavVisRange = "{0, 1602}";
+			sepNavWindowFrame = "{{130, 220}, {750, 558}}";
+		};
+	};
+	BC91BE3F12CFACE700B36C0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* UKTVTweeter_Prefix.pch */;
+		name = "UKTVTweeter_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	BC91BE4012CFACE700B36C0C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BC91BE0B12CE2E1100B36C0C /* bbc_three.png */;
+	};
+	BC91BF5F12D0FA0C00B36C0C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UKTVTweeter-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	BC91BF7912D0FE8F00B36C0C /* Programme.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 429}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	BC91BF7A12D0FE8F00B36C0C /* Programme.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 520}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 911}";
+			sepNavWindowFrame = "{{153, 339}, {750, 558}}";
+		};
+	};
+	BC91C38912D2273300B36C0C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BC91BE0612CE2D9F00B36C0C /* bbc_one.png */;
+	};
+	BC91C45512D29F2800B36C0C /* AtlasScheduleClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 429}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRange = "{0, 465}";
+		};
+	};
+	BC91C45612D29F2800B36C0C /* AtlasScheduleClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 1014}}";
+			sepNavSelRange = "{2029, 0}";
+			sepNavVisRange = "{0, 978}";
+		};
+	};
+	BC91C45912D2A16700B36C0C /* AtlasScheduleDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 434}}";
+			sepNavSelRange = "{233, 100}";
+			sepNavVisRange = "{0, 340}";
+		};
+	};
+	BC91C4D612D3EEF800B36C0C /* AtlasScheduleClient.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BC91C45612D29F2800B36C0C /* AtlasScheduleClient.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		location = UKTVTweeter;
+		modificationTime = 316221718.391146;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	BC91C4F112D7EDBF00B36C0C /* BitlyDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 434}}";
+			sepNavSelRange = "{45, 0}";
+			sepNavVisRange = "{0, 181}";
+		};
+	};
+	BC91C4F212D8C91A00B36C0C /* BitlyClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {981, 429}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{0, 417}";
+		};
+	};
+	BC91C4F312D8C91A00B36C0C /* BitlyClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1223, 975}}";
+			sepNavSelRange = "{1882, 0}";
+			sepNavVisRange = "{0, 1051}";
+		};
+	};
+	BC91C52312D91F3600B36C0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C45912D2A16700B36C0C /* AtlasScheduleDelegate.h */;
+		name = "AtlasScheduleDelegate.h: 14";
+		rLen = 100;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	BC91C54712D9270200B36C0C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C4F112D7EDBF00B36C0C /* BitlyDelegate.h */;
+		name = "BitlyDelegate.h: 2";
+		rLen = 0;
+		rLoc = 45;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 0;
+	};
+	BC91C54A12D9271C00B36C0C /* Tweeter.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BC91BE2512CE4CB500B36C0C /* Tweeter.m */;
+		functionName = "-programmeWithShortenedUrl:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = UKTVTweeter;
+		modificationTime = 316221728.279763;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	BC91C55E12D928A200B36C0C /* BitlyClient.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BC91C4F312D8C91A00B36C0C /* BitlyClient.m */;
+		functionName = "-connectionDidFinishLoading:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = UKTVTweeter;
+		modificationTime = 316221718.391935;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BC98CF1C12DA7A7B006904AD /* Channel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 679}}";
+			sepNavSelRange = "{254, 0}";
+			sepNavVisRange = "{0, 392}";
+		};
+	};
+	BC98CF1D12DA7A7B006904AD /* Channel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1080, 715}}";
+			sepNavSelRange = "{1705, 0}";
+			sepNavVisRange = "{1792, 79}";
+		};
+	};
+	BC98CF3412DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C4F312D8C91A00B36C0C /* BitlyClient.m */;
+		name = "BitlyClient.m: 58";
+		rLen = 0;
+		rLoc = 1882;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 0;
+	};
+	BC98CF3512DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C4F212D8C91A00B36C0C /* BitlyClient.h */;
+		name = "BitlyClient.h: 8";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	BC98CF3812DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BF7A12D0FE8F00B36C0C /* Programme.m */;
+		name = "Programme.m: 12";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 911;
+		vrLoc = 0;
+	};
+	BC98CF3912DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BF7912D0FE8F00B36C0C /* Programme.h */;
+		name = "Programme.h: 17";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	BC98CF3A12DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UKTVTweeterAppDelegate.h */;
+		name = "UKTVTweeterAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	BC98CF3B12DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UKTVTweeterAppDelegate.m */;
+		name = "UKTVTweeterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 0;
+	};
+	BC98CF3F12DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C45512D29F2800B36C0C /* AtlasScheduleClient.h */;
+		name = "AtlasScheduleClient.h: 13";
+		rLen = 0;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	BC98CF4012DA83D4006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91C45612D29F2800B36C0C /* AtlasScheduleClient.m */;
+		name = "AtlasScheduleClient.m: 61";
+		rLen = 0;
+		rLoc = 2029;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 0;
+	};
+	BC98CF4312DA8416006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BE2412CE4CB500B36C0C /* Tweeter.h */;
+		name = "Tweeter.h: 11";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 0;
+	};
+	BC98CF5412DD1BAC006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC98CF1C12DA7A7B006904AD /* Channel.h */;
+		name = "Channel.h: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 392;
+		vrLoc = 0;
+	};
+	BC98CF6B12DD1F46006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC98CF1D12DA7A7B006904AD /* Channel.m */;
+		name = "Channel.m: 42";
+		rLen = 0;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1866;
+		vrLoc = 0;
+	};
+	BC98CF8912DD22EC006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BE2512CE4CB500B36C0C /* Tweeter.m */;
+		name = "Tweeter.m: 15";
+		rLen = 24;
+		rLoc = 310;
+		rType = 0;
+		vrLen = 1602;
+		vrLoc = 0;
+	};
+	BC98CFA212DD25A1006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BE2112CE4CA400B36C0C /* ChannelChooser.h */;
+		name = "ChannelChooser.h: 9";
+		rLen = 0;
+		rLoc = 138;
+		rType = 0;
+		vrLen = 145;
+		vrLoc = 0;
+	};
+	BC98CFA312DD25A1006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BE2212CE4CA400B36C0C /* ChannelChooser.m */;
+		name = "ChannelChooser.m: 48";
+		rLen = 0;
+		rLoc = 2036;
+		rType = 0;
+		vrLen = 1594;
+		vrLoc = 584;
+	};
+	BC98CFF112DF0523006904AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC91BE2212CE4CA400B36C0C /* ChannelChooser.m */;
+		name = "ChannelChooser.m: 39";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 662;
+	};
+}

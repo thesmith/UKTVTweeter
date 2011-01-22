@@ -1,0 +1,690 @@
+TUKTVTweeter
+v7
+r0
+t315696405.427954
+cCheck dependencies
+cProcessInfoPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist UKTVTweeter-Info.plist
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png bbc_one.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png bbc_four.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png bbc_three.png
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png bbc_two.png
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+cCompileXIB /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+cCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle ../three20/src/Three20.bundle
+cProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/UKTVTweeter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle
+c000000004D20CDFE00000000000001DC
+t1293995518
+s476
+
+N/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+c000000004D20C6E50000000000006507
+t1293993701
+s25863
+
+N/Users/bens/projects/iphone/UKTVTweeter/ChannelsViewController.xib
+c000000004D1E14CB0000000000001643
+t1293817035
+s5699
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.h
+c000000004D20C812000000000000010D
+t1293994002
+s269
+i<Foundation/Foundation.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.m
+c000000004D20C8420000000000000144
+t1293994050
+s324
+i"AltasClient.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h
+c000000004D20EB3B0000000000000090
+t1294003003
+s144
+i<Foundation/Foundation.h>
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m
+c000000004D20EABE0000000000000105
+t1294002878
+s261
+i"AtlasClient.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.h
+c000000004D1FCE0D000000000000008F
+t1293929997
+s143
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m
+c000000004D20C2AA00000000000006EE
+t1293992618
+s1774
+i"ChannelChooser.h"
+i"Tweeter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.h
+c000000004D20C861000000000000010B
+t1293994081
+s267
+i<Foundation/Foundation.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m
+c000000004D20C87C0000000000000140
+t1293994108
+s320
+i"Programme.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.h
+c000000004D20BE060000000000000179
+t1293991430
+s377
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m
+c000000004D20BECA00000000000006A4
+t1293991626
+s1700
+i"Tweeter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.h
+c000000004D20BA4700000000000001DA
+t1293990471
+s474
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m
+c000000004D20BA7D0000000000000A8B
+t1293990525
+s2699
+i"UKTVTweeterAppDelegate.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.h
+c000000004D1FCF900000000000000172
+t1293930384
+s370
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m
+c000000004D1FCF560000000000000A0A
+t1293930326
+s2570
+i"UKTVTweeterViewController.h"
+i"ChannelChooser.h"
+i"Tweeter.h"
+
+N/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+c000000004D20C23A00000000000064E0
+t1293992506
+s25824
+
+N/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+c000000004D20C26B0000000000004482
+t1293992555
+s17538
+
+N/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+c000000004D1F993C0000000000003BC8
+t1293916476
+s15304
+
+N/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch
+c000000004D1DF42C00000000000000BF
+t1293808684
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_four.png
+c000000004C7838A300000000000010BA
+t1282947235
+s4282
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_one.png
+c000000004C7837800000000000001384
+t1282946944
+s4996
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_three.png
+c000000004C783868000000000000145D
+t1282947176
+s5213
+
+N/Users/bens/projects/iphone/UKTVTweeter/bbc_two.png
+c000000004C93F7FD00000000000014B6
+t1284765693
+s5302
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelChooser.nib
+t1294003603
+s4385
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelsViewController.nib
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist
+t1294003602
+s607
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/MainWindow.nib
+t1294003603
+s3106
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/PkgInfo
+t1294003602
+s8
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle
+t1294003603
+s476
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tweeter.nib
+t1294003604
+s2021
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeterViewController.nib
+t1293918080
+s1234
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png
+t1294003602
+s4282
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png
+t1294003602
+s4996
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png
+t1294003602
+s5213
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png
+t1294003602
+s5302
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AltasClient.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o
+t2
+s0
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o
+t1294003605
+s37444
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o
+t1294003605
+s9908
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o
+t1294003605
+s37780
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeter.LinkFileList
+c000000004D20ED92000000000000033D
+t1294003602
+s829
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o
+t1294003605
+s49680
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o
+t1293991830
+s43188
+
+N/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o
+t1294003605
+s6304
+
+N/Users/bens/projects/iphone/UKTVTweeter/main.m
+c000000004D1DF42C000000000000016D
+t1293808684
+s365
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.2.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20-Xcode3.2.5.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004D20D6B00000000000001018
+t1293997744
+s4120
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core-Xcode3.2.2.a
+c000000004D20D6580000000000033148
+t1293997656
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core-Xcode3.2.5.a
+c000000004D20D6540000000000033148
+t1293997652
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004D20D64C0000000000033148
+t1293997644
+s209224
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network-Xcode3.2.2.a
+c000000004D20D67C0000000000051850
+t1293997692
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network-Xcode3.2.5.a
+c000000004D20D6710000000000051850
+t1293997681
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004D20D65E0000000000051850
+t1293997662
+s333904
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style-Xcode3.2.2.a
+c000000004D20D6840000000000124450
+t1293997700
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style-Xcode3.2.5.a
+c000000004D20D67A0000000000124450
+t1293997690
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004D20D6690000000000124450
+t1293997673
+s1197136
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI-Xcode3.2.2.a
+c000000004D20D6AE000000000053D248
+t1293997742
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI-Xcode3.2.5.a
+c000000004D20D6A2000000000053D248
+t1293997730
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004D20D694000000000053D248
+t1293997716
+s5493320
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon-Xcode3.2.2.a
+c000000004D20D6590000000000034780
+t1293997657
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon-Xcode3.2.5.a
+c000000004D20D6550000000000034780
+t1293997653
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004D20D64E0000000000034780
+t1293997646
+s214912
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator-Xcode3.2.2.a
+c000000004D20D65B000000000007E350
+t1293997659
+s516944
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator-Xcode3.2.5.a
+c000000004D20D656000000000007E350
+t1293997654
+s516944
+
+N/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004D20D652000000000007E350
+t1293997650
+s516944
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch
+t1293918082
+s15211536
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch
+t1294003605
+s15211536
+
+NUKTVTweeter-Info.plist
+c000000004D1DF42C000000000000038D
+t1293808684
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315696402#315696402#0(0"0(0#1#0"8649121408#0"0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AltasClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AltasClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.364461
+e315696405.422242
+r0
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:9:
+o/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h:8: error: can not use an object as parameter to a method
+o/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:14: error: can not use an object as parameter to a method
+o/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m: In function '-[AtlasClient onNow:]':
+o/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:15: error: incompatible types in return
+o/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:16: warning: control reaches end of non-void function
+lSLF07#2@69"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315696405#315696405#0(644"In file included from /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:9:/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h:8: error: can not use an object as parameter to a method/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:14: error: can not use an object as parameter to a method/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m: In function '-[AtlasClient onNow:]':/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:15: error: incompatible types in return/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m:16: warning: control reaches end of non-void function4(4@46"Can not use an object as parameter to a method315696405#87#119#2(7@83"In file included from /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315696405#18446744073709551615#0#0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315695678#9#0#9#0#0"0(13@111"Can not use an object as parameter to a method in /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h315696405#18446744073709551615#0#0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h315695803#8#0#8#0#0"0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.h315695803#8#0#8#0#0"0(4@46"Can not use an object as parameter to a method315696405#206#120#0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315695678#14#0#14#0#0"0(4@28"Incompatible types in return315696405#426#102#0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315695678#15#0#15#0#0"0(22@40"Control reaches end of non-void function315696405#528#116#0(6@61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m315695678#16#0#16#0#40"control reaches end of non-void function0(0#0#61"/Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m8655221824#2125"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/AtlasClient.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/AtlasClient.o1#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.244911
+e315696405.343999
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m315696405#315696405#0(0"0(0#0#64"/Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m8659763104#2131"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/ChannelChooser.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/ChannelChooser.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.344104
+e315696405.427790
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m315696405#315696405#0(0"0(0#0#59"/Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m8655687424#2121"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/Programme.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Programme.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.269468
+e315696405.364359
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m315696405#315696405#0(0"0(0#0#57"/Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m8659365504#2117"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/Tweeter.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/Tweeter.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.164500
+e315696405.269365
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m315696405#315696405#0(0"0(0#0#72"/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m8664519936#2147"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterAppDelegate.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterAppDelegate.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315684630.220438
+e315684630.326120
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o
+x/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m315684630#315684630#0(0"0(0#0#75"/Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m8620268896#2117"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/Classes/UKTVTweeterViewController.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeterViewController.o0#
+
+CCompileC build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/UKTVTweeter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696405.163110
+e315696405.244783
+r1
+xCompileC
+xbuild/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o
+x/Users/bens/projects/iphone/UKTVTweeter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bens/projects/iphone/UKTVTweeter/main.m315696405#315696405#0(0"0(0#0#46"/Users/bens/projects/iphone/UKTVTweeter/main.m8682651936#2103"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch -c /Users/bens/projects/iphone/UKTVTweeter/main.m -o /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+s315696402.901870
+e315696403.758289
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib
+lSLF07#2@29"CompileXIB ChannelChooser.xib315696402#315696403#0(0"0(0#0#58"/Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib8653159008#647"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/ChannelChooser.nib /Users/bens/projects/iphone/UKTVTweeter/ChannelChooser.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/ChannelsViewController.xib
+r0
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+s315696402.875949
+e315696403.586307
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib:16: warning: 'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.
+lSLF07#2@25"CompileXIB MainWindow.xib315696402#315696403#0(268"/* com.apple.ibtool.document.warnings *//Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib:16: warning: 'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.1(22@158"'Navigation Controller' has its 'NIB Name' property set to 'ChannelChooser.nib', but this view controller is not intended to have its view set in this manner.315696403#18446744073709551615#0#0(6@54"/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib315685306#16#0#16#0#0"0(0#0#54"/Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib8654463552#639"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/MainWindow.nib /Users/bens/projects/iphone/UKTVTweeter/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+s315696403.586391
+e315696404.140886
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib
+lSLF07#2@22"CompileXIB Tweeter.xib315696403#315696404#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib8650259680#633"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Tweeter.nib /Users/bens/projects/iphone/UKTVTweeter/Tweeter.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+s315610879.880792
+e315610880.295415
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib
+lSLF07#2@40"CompileXIB UKTVTweeterViewController.xib315610879#315610880#0(0"0(0#0#69"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib8616775072#669"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeterViewController.nib /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeterViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+s315690544.724367
+e315690544.737610
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/CoreUnitTests.octest
+x/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest
+opbxcp: CoreUnitTests.octest: No such file or directory
+lSLF07#2@98"Copy /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest315690544#315690544#0(55"pbxcp: CoreUnitTests.octest: No such file or directory1(4@54"pbxcp: CoreUnitTests.octest: No such file or directory315690544#18446744073709551615#0#0(6@0"315690544#0#0#0#0#0"0(0#0#93"/Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest8666350624#566"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/three20/Build/Products/Debug-iphonesimulator/CoreUnitTests.octest /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app1#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle ../three20/src/Three20.bundle
+s315696403.758452
+e315696403.784639
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/Three20.bundle
+x../three20/src/Three20.bundle
+lSLF07#2@34"Copy ../three20/src/Three20.bundle315696403#315696403#0(0"0(0#0#69"/Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle8650030400#542"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/../three20/src/Three20.bundle /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png bbc_four.png
+s315696402.881951
+e315696402.928468
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_four.png
+xbbc_four.png
+lSLF07#2@17"Copy bbc_four.png315696402#315696402#0(0"0(0#0#52"/Users/bens/projects/iphone/UKTVTweeter/bbc_four.png8653894016#525"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_four.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png bbc_one.png
+s315696402.876710
+e315696402.928343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_one.png
+xbbc_one.png
+lSLF07#2@16"Copy bbc_one.png315696402#315696402#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/bbc_one.png8654245504#524"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_one.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png bbc_three.png
+s315696402.888805
+e315696402.928567
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_three.png
+xbbc_three.png
+lSLF07#2@18"Copy bbc_three.png315696402#315696402#0(0"0(0#0#53"/Users/bens/projects/iphone/UKTVTweeter/bbc_three.png8653709632#526"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_three.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CCpResource build/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png bbc_two.png
+s315696402.895119
+e315696402.928670
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UKTVTweeter.app/bbc_two.png
+xbbc_two.png
+lSLF07#2@16"Copy bbc_two.png315696402#315696402#0(0"0(0#0#51"/Users/bens/projects/iphone/UKTVTweeter/bbc_two.png8653503392#524"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bens/projects/iphone/UKTVTweeter/bbc_two.png /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
+CGenerateDSYMFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+s315685423.392420
+e315685423.410795
+r1
+xGenerateDSYMFile
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/UKTVTweeter.app.dSYM build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter315685423#315685423#0(0"0(0#0#95"/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter8614565408#460"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app.dSYM0#
+
+CLd /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter normal i386
+s315685423.361997
+e315685423.392314
+r1
+xLd
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter
+xnormal
+xi386
+lSLF07#2@100"Link /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter315685423#315685423#0(0"0(0#0#0"8614748800#987"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -filelist /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/Objects-normal/i386/UKTVTweeter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/UKTVTweeter0#
+
+CProcessInfoPlistFile /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist UKTVTweeter-Info.plist
+s315696402.869118
+e315696402.875866
+r1
+xProcessInfoPlistFile
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist
+xUKTVTweeter-Info.plist
+lSLF07#2@30"Process UKTVTweeter-Info.plist315696402#315696402#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter-Info.plist8656128800#556"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility UKTVTweeter-Info.plist -genpkginfo /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app/Info.plist0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315610880.823083
+e315610882.780682
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch
+xUKTVTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UKTVTweeter_Prefix.pch315610880#315610882#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch8606186752#1954"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -c /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-fmfgngekiasgibdxomglvcnmbpau/UKTVTweeter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch UKTVTweeter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315696404.141007
+e315696405.162905
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch
+xUKTVTweeter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile UKTVTweeter_Prefix.pch315696404#315696405#0(0"0(0#0#62"/Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch8649367232#1990"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-generated-files.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-own-target-headers.hmap -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-all-target-headers.hmap -iquote /Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/UKTVTweeter-project-headers.hmap -F/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources/i386 -I/Users/bens/projects/iphone/UKTVTweeter/build/UKTVTweeter.build/Debug-iphonesimulator/UKTVTweeter.build/DerivedSources -c /Users/bens/projects/iphone/UKTVTweeter/UKTVTweeter_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UKTVTweeter_Prefix-hjlzshohqzpwebavlfuhulymuazm/UKTVTweeter_Prefix.pch.gch0#
+
+CTouch /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+s315685423.410891
+e315685423.414387
+r1
+xTouch
+x/Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app
+lSLF07#2@89"Touch /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app315685423#315685423#0(0"0(0#0#0"8615769376#346"    cd /Users/bens/projects/iphone/UKTVTweeter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/bens/projects/iphone/UKTVTweeter/build/Debug-iphonesimulator/UKTVTweeter.app0#
+
